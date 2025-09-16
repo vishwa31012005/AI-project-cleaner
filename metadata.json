@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Cleaner",
+  "description": "An AI-powered tool to analyze your project's structure, identify unnecessary files, and help you create a clean, production-ready build. Upload a ZIP file to get a detailed report on which files to keep and which to remove.",
+  "requestFramePermissions": []
+}
